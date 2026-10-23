@@ -1,0 +1,5 @@
+Noturno: 3
+Matutino: 2
+Vespertino: 1
+Integral: 1
+Inválidos: ['Noite']
